@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MakeEasy</string>
+    <string name="makeeasy">MakeEasy</string>
+    <string name="make_your_life_easy">Make your life easy</string>
+    <string name="click_for_project">Click For Project</string>
+    <string name="Answer">Answer</string>
+    <string name="type_operand">type operand</string>
+    <string name="type_1st_value">type 1st value</string>
+    <string name="number1">Number =</string>
+    <string name="number">Number =</string>
+    <string name="type_2nd_value">type 2nd value</string>
+    <string name="instruction">Instruction</string>
+    <string name="next">Next</string>
+    <string name="which_kind_of_operand_you_want_to_use_your_project">Which kind of operand you want to use your project :</string>
+    <string name="_4_if_you_want_division_then_4">4.If you want division then 4.</string>
+    <string name="_2_if_you_want_substruction_then_given_2">2. If you want Substruction then given 2.</string>
+    <string name="_1_if_you_want_to_sum_then_given_1_in_the_type_operand">1. If you want to Sum then given 1 in the type operand.</string>
+    <string name="_3_if_you_want_multiple_then_3">3. If you want multiple then 3.</string>
+    <string name="type">Type   =</string>
+    <string name="type_number">type number</string>
+</resources>
